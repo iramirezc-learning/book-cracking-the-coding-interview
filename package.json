@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Personal notes & code for the book Cracking the Coding Interview (6th edition) by Gayle Laakmann McDowell.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/iramirezc-learning/cracking-the-coding-interview-book/issues"
   },
-  "homepage": "https://github.com/iramirezc-learning/cracking-the-coding-interview-book#readme"
+  "homepage": "https://github.com/iramirezc-learning/cracking-the-coding-interview-book#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
 }
