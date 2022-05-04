@@ -4,7 +4,7 @@ Personal notes & code for the book Cracking the Coding Interview (6th edition) b
 
 ## Chapters
 
-1. [Arrays and strings](/docs/chapters/01.md)
+1. [Arrays and Strings](/docs/chapters/01.md)
 2. Linked Lists
 3. Stacks and Queues
 4. Trees and Graphs
