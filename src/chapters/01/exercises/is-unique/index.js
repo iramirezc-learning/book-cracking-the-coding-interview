@@ -1,7 +1,7 @@
 /*  Book solutions */
-const isUniqueSolution = require("./book-solution/is-unique.solution");
+const { isUniqueHashTable } = require("./book-solutions");
 /* My solutions */
-const isUniqueV1 = require("./my-solution/is-unique.v1");
+const { isUniqueV1 } = require("./my-solutions");
 
 /* Export the solution to be tested */
 module.exports = isUniqueV1;
