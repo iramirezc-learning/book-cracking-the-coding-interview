@@ -1,7 +1,7 @@
 /*  Book solutions */
 const {} = require("./book-solutions");
 /* My solutions */
-const { v1 } = require("./my-solutions");
+const { v1, v2 } = require("./my-solutions");
 
 /* Export the solution to be tested */
-module.exports = v1;
+module.exports = v2;
