@@ -19,3 +19,7 @@ function isUnique(str) {
 
 module.exports = isUnique;
 ```
+
+**Further reading:**
+
+- [ASCII Vs Unicode](https://www.geeksforgeeks.org/ascii-vs-unicode/)
